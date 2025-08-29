@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+lxml
+html5lib
+pyyaml
+tqdm
+charset-normalizer

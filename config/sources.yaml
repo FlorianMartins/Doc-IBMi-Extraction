@@ -1,0 +1,27 @@
+version: "7.5"
+rate_limit_per_sec: 1.0
+sections:
+  - key: ile-rpg-guide
+    title: "ILE RPG Programmer's Guide"
+    root_url: "https://www.ibm.com/docs/en/i/7.5?topic=languages-ile-rpg-programmers-guide"
+  - key: ile-rpg-reference
+    title: "ILE RPG Reference"
+    root_url: "https://www.ibm.com/docs/en/i/7.5?topic=languages-ile-rpg-reference"
+  - key: sql-programming
+    title: "SQL Programming (Db2 for i)"
+    root_url: "https://www.ibm.com/docs/en/i/7.5?topic=programming-sql-programming"
+  - key: sql-reference
+    title: "SQL Reference (Db2 for i)"
+    root_url: "https://www.ibm.com/docs/en/i/7.5?topic=reference-sql-reference"
+  - key: embedded-sql-rpg
+    title: "Embedded SQL in RPG"
+    root_url: "https://www.ibm.com/docs/en/i/7.5?topic=languages-embedded-sql"
+  - key: cl-language
+    title: "Control Language (CL)"
+    root_url: "https://www.ibm.com/docs/en/i/7.5?topic=languages-control-language"
+  - key: dds-display
+    title: "DDS - Display Files (DSPF)"
+    root_url: "https://www.ibm.com/docs/en/i/7.5?topic=files-display-files"
+  - key: dds-printer
+    title: "DDS - Printer Files (PRTF)"
+    root_url: "https://www.ibm.com/docs/en/i/7.5?topic=files-printer-files"
